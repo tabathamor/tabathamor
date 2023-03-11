@@ -6,9 +6,7 @@ Frontend developer
 
 I'm a frontend developer that loves REACT
 
-* 🌍  I'm based in Panama soon to be in Seattle
-* ✉️  You can contact me at [tabathamorenoz@gmail.com](mailto:tabathamorenoz@gmail.com)
-* 🧠  I'm learning How to interview
+* 🌍  I'm based in Panama 
 
 <a href="https://www.github.com/tabathamor" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/tabathamor?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
