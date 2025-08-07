@@ -1,43 +1,69 @@
-Hi 👋 My name is Tabatha Moreno
-===============================
-
-Frontend developer
-------------------
-
-I'm a frontend developer that loves REACT
-
-* 🌍  I'm based in Panama 
-
-<a href="https://www.github.com/tabathamor" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/tabathamor?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
-
-### Skills
-
-
-<p align="left">
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
-<a href="https://angular.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/angularjs-colored.svg" width="36" height="36" alt="Angular" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a>
-<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
-<a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a>
-<a href="https://metamask.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/metamask-colored.svg" width="36" height="36" alt="MetaMask" /></a>
+<h1 align="center">Hi 👋 I'm Tabatha Moreno</h1>
+<p align="center">
+  💻 Frontend Developer | 🎨 Aesthetic Creator | 🌱 Based in Seattle <br>
+  I build beautiful, interactive, and user-friendly web experiences.
 </p>
 
+<div align="center">
+  <a href="https://www.github.com/tabathamor" target="_blank">
+    <img src="https://img.shields.io/github/followers/tabathamor?label=Follow&style=social" alt="GitHub Followers" />
+  </a>
+  <a href="https://www.linkedin.com/in/tabatha-m-081357146/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=flat" />
+  </a>
+  <a href="https://www.instagram.com/bytabathamor/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-aesthetic?logo=instagram&logoColor=white&style=flat&color=ff69b4" />
+  </a>
+</div>
 
-### Socials
+---
 
-<p align="left"> <a href="https://www.github.com/tabathamor" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/tabatha-m-081357146/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+### ✨ About Me
+- 🧠 Self-taught developer with a design eye  
+- 💅 I mix code with creativity (React + Tailwind = 💖)  
+- 🧳 Moved from Panamá → Chile → now Seattle  
+- ☕ Addicted to coffee, coding and clean UI  
+- 🧼 Skincare lover by day, frontend wizard by night
 
-### Badges
+---
 
-<b>My GitHub Stats</b>
+### 🛠️ Tech Stack
 
-<a href="http://www.github.com/tabathamor"><img src="https://github-readme-stats.vercel.app/api?username=tabathamor&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="tabathamor's GitHub stats" /></a>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,react,tailwind,nextjs,html,css,nodejs,figma,ps,ai" />
+</p>
 
-<a href="http://www.github.com/tabathamor"><img src="https://github-readme-streak-stats.herokuapp.com/?user=tabathamor&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+---
 
-<b>Top Repositories</b>
+### 🔥 GitHub Stats
 
-<div width="100%" align="center"></div><br /><br /><br /><br /><br /><br /><br />
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=tabathamor&show_icons=true&theme=radical&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tabathamor&theme=radical&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tabathamor&layout=compact&theme=radical&hide_border=true" />
+</div>
+
+---
+
+### 🎯 Currently Working On
+
+- 💳 [UseYourCredit](https://github.com/tabathamor/useyourcredit) – A fintech app that helps people track card benefits  
+- 🧪 UI experiments and animations with React  
+- 🛠 Building aesthetic components with Tailwind + Framer Motion  
+- 💼 Updating my portfolio and prepping for job interviews
+
+---
+
+### 🎥 Fun Fact
+
+I document my tech & creator journey on TikTok and IG — blending beauty, lifestyle, and code like a real-life frontend fairy 🧚‍♀️  
+📹 [`@bytabathamor`](https://www.tiktok.com/@bytabathamor)
+
+---
+
+### 🧠 Let's Connect
+If you're into building cool things, coffee, or skincare, we might already be besties ☕  
+→ Drop me a message on [LinkedIn](https://www.linkedin.com/in/tabatha-m-081357146/) or [Instagram](https://www.instagram.com/bytabathamor/)
+
+---
+
