@@ -19,11 +19,13 @@
 ---
 
 ### ✨ About Me
-- 🧠 Self-taught developer with a design eye  
-- 💅 I mix code with creativity (React + Tailwind = 💖)  
-- 🧳 Moved from Panamá → Chile → now Seattle  
-- ☕ Addicted to coffee, coding and clean UI  
-- 🧼 Skincare lover by day, frontend wizard by night
+- 🎓 Graduated Software Developer with a background in Computer Science
+-🤓 Self-taught frontend enthusiast who never stops learning
+-🧠 I combine structured knowledge with real-world experience
+-💅 I mix code with creativity (React + Tailwind = 💖)
+-🧳 Moved from Panamá → Chile → now based in Seattle
+-☕ Addicted to coffee, coding and clean UI
+-🧼 Skincare lover by day, frontend fairy by night
 
 ---
 
