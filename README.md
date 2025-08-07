@@ -1,3 +1,7 @@
+from pathlib import Path
+
+# Contenido completo del README.md
+readme_content = """\
 <h1 align="center">Hi 👋 I'm Tabatha Moreno</h1>
 <p align="center">
   💻 Frontend Developer | 🎨 Aesthetic Creator | 🌱 Based in Seattle <br>
@@ -19,13 +23,13 @@
 ---
 
 ### ✨ About Me
-- 🎓 Graduated Software Developer with a background in Computer Science
--🤓 Self-taught frontend enthusiast who never stops learning
--🧠 I combine structured knowledge with real-world experience
--💅 I mix code with creativity (React + Tailwind = 💖)
--🧳 Moved from Panamá → Chile → now based in Seattle
--☕ Addicted to coffee, coding and clean UI
--🧼 Skincare lover by day, frontend fairy by night
+- 🎓 **Graduated Software Developer** with a background in Computer Science  
+- 🤓 Self-taught frontend enthusiast who never stops learning  
+- 🧠 I combine structured knowledge with real-world experience  
+- 💅 I mix code with creativity (React + Tailwind = 💖)  
+- 🧳 Moved from Panamá → Chile → now based in Seattle  
+- ☕ Addicted to coffee, coding and clean UI  
+- 🧼 Skincare lover by day, frontend fairy by night  
 
 ---
 
@@ -66,6 +70,10 @@ I document my tech & creator journey on TikTok and IG — blending beauty, lifes
 ### 🧠 Let's Connect
 If you're into building cool things, coffee, or skincare, we might already be besties ☕  
 → Drop me a message on [LinkedIn](https://www.linkedin.com/in/tabatha-m-081357146/) or [Instagram](https://www.instagram.com/bytabathamor/)
+"""
 
----
+# Guardar como archivo README.md
+output_path = Path("/mnt/data/README.md")
+output_path.write_text(readme_content)
 
+output_path.name
